@@ -12,7 +12,7 @@ $ kubectl apply -f .\k8s\web\deployment.yaml
 
 Após executar os comandos sua aplicação poderá ser acessada através do navegador de internet com o endereço: `localhost:8080`
 
-![](C:\Users\thiag\Dropbox\PROJETOS\Kubernetes Bootcamp\Aula 02 - Kubernetes\rotten-potatoes\01.png)
+![rotten-potatoes](C:\Users\thiag\Dropbox\PROJETOS\Kubernetes Bootcamp\Aula 02 - Kubernetes\rotten-potatoes\01.png)
 
 Para finalizar:
 
